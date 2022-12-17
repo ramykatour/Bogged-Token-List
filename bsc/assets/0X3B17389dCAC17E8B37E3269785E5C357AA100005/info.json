@@ -1,14 +1,14 @@
 {
-    "name": "Swiss Fund",
-    "website": "https://swiss.fund",
-    "telegram": "https://t.me/MySwissFund",
-    "twitter": "https://twitter.com/MySwissFund",
-    "description": "Swiss Fund is a state-of-the-art DeFi-system that combines the Swiss Banking system with modern Blockchain technology.",
-    "explorer": "https://bscscan.com/token/0x3b17389dcac17e8b37e3269785e5c357aa100005",
+    "name": "GameDevo",
+    "website": "https://gameDevo.live",
+    "telegram": "https://t.me/gvotoken",
+    "twitter": "https://twitter.com/gvotoken",
+    "description": "GameDevo is a stat of the art DeFi-system that combines the Banking system with modern Blockchain technology.",
+    "explorer": "https://bscscan.com/token/0x5213F1277C55ED42d0C62B8f48823659b0c8AD1d",
     "type": "BEP20",
-    "symbol": "SWSS",
-    "decimals": 9,
+    "symbol": "GVO",
+    "decimals": 18,
     "slippage": 11,
     "status": "active",
-    "id": "0x3b17389dcac17e8b37e3269785e5c357aa100005"
+    "id": "0x5213F1277C55ED42d0C62B8f48823659b0c8AD1d"
 }
